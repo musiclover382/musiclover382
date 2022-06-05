@@ -22,7 +22,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
   <img align="left" width="100" height="100" src="https://gitlab.gnome.org/GNOME/gtranslator/-/raw/master/data/icons/hicolor/scalable/apps/org.gnome.Gtranslator.svg" alt="Gtranslator icon">
   
   ### Translations & Internationalizations
-  I'm a freelance English to Italian translator and I occasionally help out in implementing i18ns. While translating, I try to keep a good quality standard so don't hesitate to [contact me](https://github.com/musiclover382/musiclover382/README.md#-contact-me) if you find a mistake!
+  I'm a freelance English to Italian translator and I occasionally help out in implementing i18ns. While translating, I try to keep a good quality standard so don't hesitate to [contact me](https://github.com/musiclover382#-contact-me) if you find a mistake!
   <details>
     <summary>Click here to see the list of translations I currently maintain.</summary>
     <ul>
