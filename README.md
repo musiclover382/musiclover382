@@ -10,7 +10,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
 ***
 <div>
   
-  <img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/800px-Archlinux-icon-crystal-64.svg.png?20151125181813" alt="Arch Linux logo">
+  <img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux logo">
   
 
   ### Arch User Repository
@@ -39,7 +39,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
 
 ***
 <div>
-  <img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20120525234412" alt="Git">
+  <img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git">
   
   ### Testing
   In an effort to improve free software quality, I often submit issues here on GitHub.<br/><br/>
